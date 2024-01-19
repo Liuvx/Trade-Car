@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "motor.h": "c",
+        "xunji.h": "c",
+        "main.h": "c",
+        "pid_v.h": "c",
+        "blue.h": "c",
+        "control.h": "c",
+        "rgb.h": "c",
+        "RGB.H": "cpp",
+        "hmi.h": "c",
+        "my_uart.h": "c",
+        "key.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "beep.h": "c",
+        "su03t.h": "c",
+        "SR04.C": "cpp",
+        "sr04.h": "c"
+    }
+}
